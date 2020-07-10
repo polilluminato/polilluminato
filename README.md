@@ -6,23 +6,8 @@ In my spare time I like to experiment on side projects apps, ui designs, web app
 
 ## Social Account
 
-- Twitter: [@polilluminato](https://twitter.com/polilluminato)
-- Linkedin: [bonacinaalberto](https://www.linkedin.com/in/bonacinaalberto/)
-- Hashnode: [@polilluminato](https://polilluminato.hashnode.dev/)
-- Medium: [@polilluminato](https://medium.com/@polilluminato)
-- Pinterest: [@polilluminato](https://www.pinterest.it/polilluminato/)
-
-<!--
-**polilluminato/polilluminato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐦 Twitter: [@polilluminato](https://twitter.com/polilluminato)
+- 👔 Linkedin: [bonacinaalberto](https://www.linkedin.com/in/bonacinaalberto/)
+- 📰 Hashnode: [@polilluminato](https://polilluminato.hashnode.dev/)
+- 📰 Medium: [@polilluminato](https://medium.com/@polilluminato)
+- 🖼️ Pinterest: [@polilluminato](https://www.pinterest.it/polilluminato/)
