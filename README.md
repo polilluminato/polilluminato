@@ -8,3 +8,7 @@ I love programming and I work as a Software Engineer developing web based applic
 - 📰 Hashnode: [@polilluminato](https://polilluminato.hashnode.dev/)
 - 📰 Medium: [@polilluminato](https://medium.com/@polilluminato)
 - 🖼️ Pinterest: [@polilluminato](https://www.pinterest.it/polilluminato/)
+
+## My GitHub Stats
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=polilluminato&show_icons=true)
