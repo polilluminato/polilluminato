@@ -9,6 +9,10 @@ I love programming and I work as a Software Engineer developing web based applic
 - 📰 Medium: [@polilluminato](https://medium.com/@polilluminato)
 - 🖼️ Pinterest: [@polilluminato](https://www.pinterest.it/polilluminato/)
 
+## Published projects
+
+- [Wassword - Wonderful Password Generator](https://play.google.com/store/apps/details?id=com.albertobonacina.wassword): With Wassword you can easily generate complex passwords and use them for your online accounts. Choose length and chars to be used and generate your passwords safely.
+
 ## My GitHub Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=polilluminato&show_icons=true)
