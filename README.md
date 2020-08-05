@@ -17,6 +17,10 @@ I love programming and I work as a Software Engineer developing web based applic
 - [Wassword - Wonderful Password Generator](https://play.google.com/store/apps/details?id=com.albertobonacina.wassword): With Wassword you can easily generate complex passwords and use them for your online accounts. Choose length and chars to be used and generate your passwords safely
 - [COVID-19 Tracker ITA](https://polilluminato.github.io/covid19trackerita/): Data on the emergency of COVID-19 in Italy made available on the GitHub page [COVID-19](https://github.com/pcm-dpc/COVID-19) from the Department of Civil Protection
 
+# Hashnode Blog Post
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## My GitHub Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=polilluminato&show_icons=true)
