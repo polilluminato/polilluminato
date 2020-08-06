@@ -18,8 +18,8 @@ I love programming and I work as a Software Engineer developing web based applic
 - [COVID-19 Tracker ITA](https://polilluminato.github.io/covid19trackerita/): Data on the emergency of COVID-19 in Italy made available on the GitHub page [COVID-19](https://github.com/pcm-dpc/COVID-19) from the Department of Civil Protection
 
 ## Hashnode Blog Post
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
 
 ## My GitHub Stats
 
