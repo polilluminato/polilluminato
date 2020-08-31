@@ -3,6 +3,9 @@ I love programming and I work as a Software Engineer developing web based applic
 
 ## Tool that I use
 
+[![](https://img.shields.io/badge/Linux-Mint-informational?style=flat&logo=linux&logoColor=white&color=667f4e)](https://linuxmint.com/)
+[![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=08599d)](https://flutter.dev/)
+[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=AC4142)](https://developer.mozilla.org/it/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=AC4142)](https://code.visualstudio.com/)
 
 ## Connect with me
