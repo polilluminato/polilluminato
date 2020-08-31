@@ -1,6 +1,10 @@
 # Hi, I'm Alberto
 I love programming and I work as a Software Engineer developing web based applications and mobile apps. In my spare time I like to experiment on side projects apps, ui designs to improve my skills.
 
+## Tool that I use
+
+[![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=AC4142)](https://code.visualstudio.com/)
+
 ## Connect with me
 
 [<img align="left" alt="albertobonacina.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/brave.svg" />][website]
