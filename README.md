@@ -13,7 +13,6 @@ I love programming and I work as a Software Engineer developing web based applic
 [<img align="left" alt="Polilluminato | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Alberto Bonacina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Polilluminato | Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hashnode.svg" />][hashnode]
-[<img align="left" alt="Polilluminato | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
 [<img align="left" alt="Polilluminato | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pinterest.svg" />][pinterest]
 
 <br />
@@ -40,6 +39,5 @@ I love programming and I work as a Software Engineer developing web based applic
 [website]: https://albertobonacina.com/
 [twitter]: https://twitter.com/polilluminato
 [linkedin]: https://www.linkedin.com/in/bonacinaalberto/
-[hashnode]: https://polilluminato.hashnode.dev/
-[medium]: https://medium.com/@polilluminato
+[hashnode]: https://blog.albertobonacina.com/
 [pinterest]: https://www.pinterest.it/polilluminato/
