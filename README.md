@@ -24,11 +24,11 @@ I love programming and I work as a Software Engineer developing web based applic
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Object-Oriented Programming Principles in Dart](https://blog.albertobonacina.com/object-oriented-programming-principles-in-dart)
 - [Redundancy and Backup. How to secure your honeymoon photos](https://blog.albertobonacina.com/redundancy-and-backup-how-to-secure-your-honeymoon-photos)
 - [How to monetize your blog on Hashnode](https://blog.albertobonacina.com/how-to-monetize-your-blog-on-hashnode)
 - [How to convince your boss to use Flutter](https://blog.albertobonacina.com/how-to-convince-your-boss-to-use-flutter)
 - [FlutterFire: Firebase and Flutter in Love 💙](https://blog.albertobonacina.com/flutterfire-firebase-and-flutter-in-love)
-- [My first Flutter package: Microsoft Fluent UI Icons](https://blog.albertobonacina.com/my-first-flutter-package-microsoft-fluent-ui-icons)
 <!-- HASHNODE:END -->
 
 ## My GitHub Stats
