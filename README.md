@@ -1,12 +1,6 @@
 # Hi, I'm Alberto
 I love programming and I work as a Software Engineer developing web based applications and mobile apps. In my spare time I like to experiment on side projects apps, ui designs to improve my skills.
 
-[![](https://img.shields.io/badge/Linux-Mint-informational?style=flat&logo=linux&logoColor=white&color=43A047)](https://linuxmint.com/)
-[![](https://img.shields.io/badge/Brave-Browser-informational?style=flat&logo=brave&logoColor=white&color=FB542B)](https://brave.com/)
-[![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=1E88E5)](https://flutter.dev/)
-[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=E51C23)](https://developer.mozilla.org/it/docs/Web/JavaScript)
-[![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=3949AB)](https://code.visualstudio.com/)
-
 ## Connect with me
 
 <p align="left">
