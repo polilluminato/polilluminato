@@ -9,13 +9,16 @@ I love programming and I work as a Software Engineer developing web based applic
 
 ## Connect with me
 
-[<img align="left" alt="albertobonacina.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/brave.svg" />][website]
-[<img align="left" alt="Polilluminato | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Alberto Bonacina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Polilluminato | Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hashnode.svg" />][hashnode]
-[<img align="left" alt="Polilluminato | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pinterest.svg" />][pinterest]
-
-<br />
+<p align="left">
+<a href="https://albertobonacina.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/brave.svg" alt="polilluminato" height="30" width="40" /></a>
+<a href="https://twitter.com/polilluminato" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="polilluminato" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bonacinaalberto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bonacinaalberto" height="30" width="40" /></a>
+<a href="https://blog.albertobonacina.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="bonacinaalberto" height="30" width="40" /></a>
+<a href="https://www.pinterest.it/polilluminato/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pinterest.svg" alt="bonacinaalberto" height="30" width="40" /></a>
+<a href="https://instagram.com/polilluminato" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="polilluminato" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7483183" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="7483183" height="30" width="40" /></a>
+<a href="https://blog.albertobonacina.com/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://blog.albertobonacina.com/rss.xml" height="30" width="40" /></a>
+</p>
 
 ## Published projects
 
@@ -34,10 +37,3 @@ I love programming and I work as a Software Engineer developing web based applic
 ## My GitHub Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=polilluminato&show_icons=true)
-
-
-[website]: https://albertobonacina.com/
-[twitter]: https://twitter.com/polilluminato
-[linkedin]: https://www.linkedin.com/in/bonacinaalberto/
-[hashnode]: https://blog.albertobonacina.com/
-[pinterest]: https://www.pinterest.it/polilluminato/
