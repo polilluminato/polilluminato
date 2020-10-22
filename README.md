@@ -5,7 +5,7 @@ I love programming and I work as a Software Engineer developing web based applic
 
 - 💬 Ask me about **Flutter, Dart, Android, Web**
 
-- 📝 I regulary write articles on [blog.albertobonacina.com](blog.albertobonacina.com)
+- 📝 I regulary write articles on [blog.albertobonacina.com](https://blog.albertobonacina.com)
 
 ## Connect with me
 
