@@ -2,9 +2,7 @@
 I love programming and I work as a Software Engineer developing web based applications and mobile apps. In my spare time I like to experiment on side projects apps, ui designs to improve my skills.
 
 - 🌱 I’m currently learning **Flutter, Dart**
-
 - 💬 Ask me about **Flutter, Dart, Android, Web**
-
 - 📝 I regulary write articles on [blog.albertobonacina.com](https://blog.albertobonacina.com)
 
 ## Connect with me
