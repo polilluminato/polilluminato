@@ -1,8 +1,8 @@
 name: Lastest Hashnode Blog Post
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
