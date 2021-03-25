@@ -25,11 +25,11 @@ I love programming and I work as a Software Engineer developing web based applic
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Monetize your Flutter Apps with Google Ads](https://blog.albertobonacina.com/monetize-your-flutter-apps-with-google-ads)
 - [Foldables and Flutter: very interesting Duo](https://blog.albertobonacina.com/foldables-and-flutter-very-interesting-duo)
 - [Sound Null Safety: make better apps with Flutter!](https://blog.albertobonacina.com/sound-null-safety-make-better-apps-with-flutter)
 - [Flutter Engage Recap: what a wonderful future!!!](https://blog.albertobonacina.com/flutter-engage-recap-what-a-wonderful-future)
 - [Online resources to deal with images for FREE](https://blog.albertobonacina.com/online-resources-to-deal-with-images-for-free)
-- [What kind of investor are you? Let's find out](https://blog.albertobonacina.com/what-kind-of-investor-are-you)
 <!-- HASHNODE:END -->
 
 ## My GitHub Stats
