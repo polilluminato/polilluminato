@@ -27,11 +27,11 @@ I love programming and I work as a Software Engineer developing web based applic
 
 ## 🛰️ Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Building a Post Scheduling App with HarperDB & Flutter](https://blog.albertobonacina.com/building-a-post-scheduling-app-with-harperdb-and-flutter)
 - [Create a Simple Responsive GridView with Flutter](https://blog.albertobonacina.com/create-a-simple-responsive-gridview-with-flutter)
 - [Create a Simple Contact App with Faker & Flutter](https://blog.albertobonacina.com/create-a-simple-contact-app-with-faker-and-flutter)
 - [Create a Simple Timetable App with JSON & Flutter](https://blog.albertobonacina.com/create-a-simple-timetable-app-with-json-and-flutter)
 - [How to protect yourself online in 5 steps](https://blog.albertobonacina.com/how-to-protect-yourself-online-in-5-steps)
-- [Cryptocurrency 101: all you need to know to start](https://blog.albertobonacina.com/cryptocurrency-101-all-you-need-to-know-to-start)
 <!-- HASHNODE:END -->
 
 ## 🛡️ My GitHub Stats
