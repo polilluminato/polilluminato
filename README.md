@@ -4,9 +4,13 @@
 
 I love programming and I work as a Software Engineer developing web based applications and mobile apps. In my spare time I like to experiment on side projects apps, ui designs to improve my skills.
 
-- 🌱 I’m currently learning **Flutter, Dart**
-- 💬 Ask me about **Flutter, Dart, Android, Web**
-- 📝 I regulary write articles on [blog.albertobonacina.com](https://blog.albertobonacina.com)
+* 🌱 I’m currently learning **Flutter, Dart**
+* 💬 Ask me about **Flutter, Dart, Android, Web**
+* 📝 I regulary write articles on [blog.albertobonacina.com](https://blog.albertobonacina.com)
+* 🚀 Currently building ([#buildinpublic](https://twitter.com/buildinpublic) on Twitter) **Wassword**: an Open Source app to generate Password and Passphrase
+  * [Wassword Flutter app](https://github.com/polilluminato/wassword-flutter)
+  * [Wassword Website](https://github.com/polilluminato/wassword-website)
+  * [Wassword APIs](https://github.com/polilluminato/wassword-api)
 
 ## 🛸 Connect with me
 
