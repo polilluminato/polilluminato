@@ -1,7 +1,4 @@
-<div align="center">
-  <h1> Hi, I'm <b>Alberto Bonacina (@polilluminato)</b></h1>
-</div>
-
+<img align="left" alt="albertobonacina.com" src="cover.png" /><br><br>
 I love programming and I work as a Software Engineer developing web based applications and mobile apps. In my spare time I like to experiment on side projects apps, ui designs to improve my skills.
 
 * 🌱 I’m currently learning **Flutter, Dart**
