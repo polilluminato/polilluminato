@@ -53,11 +53,11 @@ I love programming and I work as a Software Engineer developing web based applic
 
 ## 🛰️ Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Theme and Accent Color switch with Riverpod in Flutter](https://blog.albertobonacina.com/theme-and-accent-color-switch-with-riverpod-in-flutter)
 - [How to properly organize your API EndPoints in Flutter](https://blog.albertobonacina.com/how-to-properly-organize-your-api-endpoints-in-flutter)
 - [ENVied: the best way to handle your environment variables in Flutter](https://blog.albertobonacina.com/envied-the-best-way-to-handle-your-environment-variables-in-flutter)
 - [Change window size on Flutter programmatically](https://blog.albertobonacina.com/change-window-size-on-flutter-programmatically)
 - [The biggest lesson learned this year for the Dev Retro 2022](https://blog.albertobonacina.com/the-biggest-lesson-learned-this-year-for-the-dev-retro-2022)
-- [Save Bookmarks to Notion Database with Telegram and Quarkus](https://blog.albertobonacina.com/save-bookmarks-to-notion-database-with-telegram-and-quarkus)
 <!-- HASHNODE:END -->
 
 ## 🛡️ My GitHub Stats
