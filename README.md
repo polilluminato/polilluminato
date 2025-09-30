@@ -36,7 +36,7 @@ I love programming and I work as a Software Engineer developing web based applic
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Google Pixel](https://img.shields.io/badge/Google-Pixel-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)
+![Google Pixel](https://img.shields.io/badge/Pixel-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
