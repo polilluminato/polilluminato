@@ -28,7 +28,7 @@ I love programming and I work as a Software Engineer developing web based applic
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-![Windsurf](https://img.shields.io/badge/Windsurf-ffffff.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+![Windsurf](https://img.shields.io/badge/Windsurf-ffffff.svg?style=for-the-badge&logo=windsurf&logoColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -36,7 +36,7 @@ I love programming and I work as a Software Engineer developing web based applic
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Google Pixel](https://img.shields.io/badge/Pixel-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)
+![Google Pixel](https://img.shields.io/badge/Pixel-%23F5010C.svg?style=for-the-badge&logo=pixel&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
