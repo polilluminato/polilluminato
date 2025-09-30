@@ -30,7 +30,7 @@ I love programming and I work as a Software Engineer developing web based applic
 
 ![Windsurf](https://img.shields.io/badge/Windsurf-ffffff.svg?style=for-the-badge&logo=windsurf&logoColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vscode&logoColor=white)
 
 ![Postgres](https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
