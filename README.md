@@ -2,13 +2,12 @@
 
 I love programming and I work as a Software Engineer developing web based applications and mobile apps. In my spare time I like to experiment on side projects apps, ui designs to improve my skills.
 
-* 🌱 I’m currently learning **Flutter, Dart**
-* 💬 Ask me about **Flutter, Dart, Android, Web**
-* 📝 I regulary write articles on [blog.albertobonacina.com](https://blog.albertobonacina.com)
-* 🚀 Currently building ([#buildinpublic](https://twitter.com/buildinpublic) on Twitter) **Wassword**: an Open Source app to generate Password and Passphrase
-  * [Wassword Flutter app](https://github.com/polilluminato/wassword-flutter)
-  * [Wassword Website](https://github.com/polilluminato/wassword-website)
-
+- 🌱 I’m currently learning **Flutter, Dart**
+- 💬 Ask me about **Flutter, Dart, Android, Web**
+- 🚀 Currently building
+  - [Pluzy - Loyalty Card & Shopping](https://pluzy.app/)
+  - [Ottipo - Paghetta e Budget](https://github.com/polilluminato/ottipo-flutter)
+ 
 ## 🛸 Connect with me
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/polilluminato)
@@ -17,7 +16,6 @@ I love programming and I work as a Software Engineer developing web based applic
 <a rel="me" href="https://fluttercommunity.social/@polilluminato">[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://fluttercommunity.social/@polilluminato)</a>
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/polilluminato)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/polilluminato)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.it/polilluminato/)
 
 ## 🤓 Tech
 
@@ -46,8 +44,8 @@ I love programming and I work as a Software Engineer developing web based applic
 ## 🚀 Published projects
 
 - [Wassword - Wonderful Password Generator](https://play.google.com/store/apps/details?id=com.albertobonacina.wassword): With Wassword you can easily generate complex passwords and use them for your online accounts. Choose length and chars to be used and generate your passwords safely
-- [Awesome Pub.dev](https://github.com/polilluminato/awesome-pubdev): A curated list of awesome packages on pub.dev
-- [COVID-19 Tracker ITA](https://polilluminato.github.io/covid19trackerita/): Data on the emergency of COVID-19 in Italy made available on the GitHub page [COVID-19](https://github.com/pcm-dpc/COVID-19) from the Department of Civil Protection
+- [Pluzy - Loyalty Card & Shopping](https://pluzy.app/): Loyalty cards & shopping list. All in one place.
+- [Ottipo - Paghetta e Budget](https://github.com/polilluminato/ottipo-flutter): Ottipo is a Flutter app that teaches kids financial literacy using the 50/30/20 budgeting rule: needs, wants, and savings, in a simple and fun way.
 
 
 ## 🛰️ Hashnode Blog Post
